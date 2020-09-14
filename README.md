@@ -1,7 +1,6 @@
 ### Hi there 👋
 Im Abhishek Jawanpuria a class 11 student from India
 
-[<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384017.svg"/>][https://mobile.twitter.com/bla02989565]
 
 <!--
 **Abhishek1345/Abhishek1345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
